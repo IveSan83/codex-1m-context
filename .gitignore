@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.test-output/
+artifacts/
+config.toml
+auth.json
+models_cache.json
+codex-1m-context/
